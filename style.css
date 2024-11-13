@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.inputComponent{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+.inputComponent input{
+    width: 20vw;
+    padding-left: 2vw;
+
+}
+.gps{
+    left: 39.5%;
+    top: 31.5%;
+    position: absolute;
+}
+.botao{
+    position: absolute;
+    height: 5vh;
+    width: 2.5vw;
+    border-radius: 50%;
+    border: none;
+    background-color: red;
+    top: 30%;
+    right: 39.1%;
+    color: white;
+}
+.planoDeFundo img{
+    width: 100vw;
+}
+.inputText{
+    position: absolute;
+    top: 30%;
+
+}
+.inputText input{
+
+height: 5vh;
+border-radius: 20px;
+border: none;outline: none;
+
+}
+.text{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    color: white;
+
+
+}
+.cabeçalho{
+    position: absolute;
+    top: -8%;
+    left: 41.5%;
+
+}
+.cabeçalho img{
+    width: 15vw;
+}
